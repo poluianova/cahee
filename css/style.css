@@ -460,10 +460,10 @@ textarea {
 	border: none;
 	border-left: 5px solid #355b82;
 }
-::-webkit-input-placeholder {color:#fff;}
-::-moz-placeholder          {color:#fff;}/* Firefox 19+ */
-:-moz-placeholder           {color:#fff;}/* Firefox 18- */
-:-ms-input-placeholder      {color:#fff;}
+.ba-contact ::-webkit-input-placeholder {color:#fff;}
+.ba-contact ::-moz-placeholder          {color:#fff;}/* Firefox 19+ */
+.ba-contact :-moz-placeholder           {color:#fff;}/* Firefox 18- */
+.ba-contact :-ms-input-placeholder      {color:#fff;}
 .ba-contact__form--big {
 	height: 250px;
 }
